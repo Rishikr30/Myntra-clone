@@ -26,3 +26,13 @@
     margin-left: 12px;
     margin-right: 12px;
 }
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.my-2{
+    margin: 12px 0;
+    padding: 23px;
+    text-align: center;
+}
