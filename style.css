@@ -82,7 +82,7 @@ nav ul li {
     min-height: 20vh;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 750px) {
     header {
         /* background: red; */
         height: 122px;
